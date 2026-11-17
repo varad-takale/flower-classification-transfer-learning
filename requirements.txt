@@ -1,0 +1,7 @@
+tensorflow>=2.16
+tensorflow-datasets
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
